@@ -5,9 +5,9 @@ make go-protoc-gen
 ```
 * start server
 ```
-make go-server
+make go-run-server
 ```
-* start client
+* run client
 ```
-make go-client
+make go-run-client
 ```
